@@ -1,0 +1,21 @@
+.blue{
+    background-color: rgb(0, 149, 255);
+}
+.yellow{
+    background-color: rgb(255, 255, 105);
+}
+.grey{
+    background-color: rgb(224, 221, 221);
+}
+.blue{
+    background-color: rgb(96, 195, 245);
+}
+.pink{
+    background-color: pink;
+}
+.black{
+    background-color: rgb(35, 34, 34);
+}
+.invert{
+    filter: invert(1);
+}
